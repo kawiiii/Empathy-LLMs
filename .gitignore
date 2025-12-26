@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+dataset/raw/
+dataset/interim/
+dataset/final/
+dataset/final/*.parquet
+dataset/final/*.arrow
+dataset/**/*.json
+*.log
+.DS_Store
+EOF
+.env
