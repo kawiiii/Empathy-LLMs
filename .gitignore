@@ -11,3 +11,4 @@ dataset/**/*.json
 .DS_Store
 EOF
 .env
+runs/
